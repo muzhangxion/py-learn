@@ -8,5 +8,4 @@ print(5)
 a = 1
 b = 5
 c = a + b
-print(c, end='as')
-print(b, a)
+print(b, a, c)
