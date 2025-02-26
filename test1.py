@@ -13,4 +13,9 @@ name = '小二'
 user_name = '王三'
 UserName = '三峰'
 userName = '阿松大'
+age = 18
 print(name, user_name, UserName, userName)
+print("我的名字：%s, 我的年龄：%4d" % (user_name, age))
+numB = 2356.1245623
+print("%.3f" % numB)
+print(f"我的名字：{userName}, 我的年龄：{age}")
