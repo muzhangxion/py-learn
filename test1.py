@@ -19,3 +19,7 @@ print("我的名字：%s, 我的年龄：%4d" % (user_name, age))
 numB = 2356.1245623
 print("%.3f" % numB)
 print(f"我的名字：{userName}, 我的年龄：{age}")
+nameA = input("我的名字是：")
+print(nameA)
+pwd = input("我的密码是：")
+print(pwd)
